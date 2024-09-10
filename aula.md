@@ -58,3 +58,7 @@ Apresentar os dados
 # Estrutura de reeptição
 
 - [x] while
+
+# Condicionais
+
+- [x] switch
